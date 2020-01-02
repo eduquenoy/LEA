@@ -105,7 +105,7 @@ cérébraux, le cerveau gauche et le cerveau
 
 23
 00:01:54,670 --> 00:01:55,670
-droit.
+right.
 
 24
 00:01:55,670 --> 00:02:01,460
