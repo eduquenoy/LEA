@@ -38,7 +38,7 @@ graphique, qui se compose de deux types d’entités
 
 9
 00:00:42,290 --> 00:00:44,650
-: des relations et les concepts.
+relations and concepts.
 
 10
 00:00:44,650 --> 00:00:48,560
