@@ -1,7 +1,6 @@
 1
 00:00:01,240 --> 00:00:07,040
-Ce premier chapitre est consacré aux fondamentaux
-des cartes conceptuelles.
+Este primer capitulo blablabla.
 
 2
 00:00:07,040 --> 00:00:13,429
@@ -119,7 +118,7 @@ synthétique, et il perçoit les choses globalement
 
 26
 00:02:07,319 --> 00:02:09,500
-; par exemple, les images.
+por ejemplo, las imagenes.
 
 27
 00:02:09,500 --> 00:02:16,560
