@@ -4,8 +4,7 @@ This first chapter is dedicated to the fundamentals of conceptuals maps.
 
 2
 00:00:07,040 --> 00:00:13,429
-De quoi allons-nous y parler ? Alors, vous
-voyez ici, dans le bandeau de gauche, la liste
+What are we going to talk about in this chapter ? Well, you can see it here, in the left banner, the list
 
 3
 00:00:13,429 --> 00:00:15,759
@@ -27,13 +26,11 @@ raisonnements ; mais pour commencer, regardons
 
 7
 00:00:28,130 --> 00:00:33,850
-l’essentiel : de quoi s’agit-il ? et pourquoi
-utilise-t-on une carte conceptuelle ?
+The essential: What is it about and why do we use a conceptual map ?
 
 8
 00:00:33,850 --> 00:00:42,290
-Une carte conceptuelle est donc une représentation
-graphique, qui se compose de deux types d’entités
+So, a conceptual map is a graphical representation, made up of two types of entities
 
 9
 00:00:42,290 --> 00:00:44,650
@@ -240,8 +237,8 @@ et sa lecture.
 
 52
 00:04:07,720 --> 00:04:13,900
-Maintenant regardons, ce qui relie les concepts,
-les liens et les propositions.
+Now let's look at what connects the concepts,
+links and proposals.
 
 53
 00:04:13,900 --> 00:04:19,359
