@@ -1,4 +1,4 @@
 files:
-  - source: /sources/fr/*.srt
+  - source: /sources/fr/*.*
     translation: >-
       /traductions/%two_letters_code%/%file_name%_%two_letters_code%.%file_extension%
