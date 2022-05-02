@@ -1,4 +1,3 @@
 files:
-  - source: /sources/fr/*.*
-    translation: >-
-      /traductions/%two_letters_code%/%file_name%_%two_letters_code%.%file_extension%
+  - source: /sources/fr/*.xml
+    translation: /traductions/%two_letters_code%/%file_name%_%two_letters_code%.%file_extension%
