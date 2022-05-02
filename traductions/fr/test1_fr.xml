@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="language">English</string>
+  <string name="langshort" comment="Type string's context here">EN</string>
+  <string name="flag-name">United-Kingdom</string>
+  <string name="new">New Element</string>
+  <string name="email">Email</string>
+  <string name="yes">Yes</string>
+  <string name="button-delete-content">Delete content</string>
+</resources>
